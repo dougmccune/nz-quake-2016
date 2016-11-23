@@ -1,0 +1,13 @@
+{
+  "name": "nzquake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convertNZQuake.js",
+  "author": "Doug McCune",
+  "license": "MIT",
+  "dependencies": {
+    "shapefile": "^0.3.1",
+    "shp2stl": "^0.1.2",
+    "geojson-fishnet": "dougmccune/geojson-fishnet"
+  }
+}
